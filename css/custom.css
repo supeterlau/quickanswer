@@ -1,0 +1,90 @@
+h1,
+h2,
+h3 {
+  font-family: noto sans, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+
+p {
+  font-family: "Quicksand";
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-weight: 300;
+}
+
+.description {
+  padding-top: 0;
+}
+
+.post-date {
+  margin-bottom: 0;
+}
+
+#content {
+  margin-top: 2.25em;
+}
+
+.archives-list-item {
+  justify-content: space-between;
+}
+
+.archives-list-item span:last-child {
+  flex-basis: auto;
+  text-align: right;
+}
+
+.archives-list-item-date {
+  flex-grow: 1;
+  flex-basis: auto;
+  flex-shrink: 0;
+}
+
+pre {
+  white-space: pre-wrap;
+  /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: normal;
+  /* Internet Explorer 5.5+ */
+}
+
+nav {
+  /* border-right: 1px solid grey; */
+}
+
+@media only screen and (min-width: 900px) {
+
+  #root {
+    margin: auto;
+  }
+
+  .content-container {
+    margin: auto;
+    margin-left: 310px;
+  }
+
+  nav {
+    left: 64px;
+  }
+}
+
+@media only screen and (min-width: 1250px) {
+  .content-container {
+    margin: auto;
+    padding-right: 0;
+  }
+
+  nav {
+    left: 3.5%;
+  }
+}
+
+/* .utterances {
+  min-height: 268px !important;
+}
+
+.utterances-frame {
+  min-height: 268px;
+} */

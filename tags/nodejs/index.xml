@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NodeJS on (Quick Answer)</title>
+    <link>https://quickanswer.surge.sh/tags/nodejs/</link>
+    <description>Recent content in NodeJS on (Quick Answer)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:19:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://quickanswer.surge.sh/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yarn |&gt; Change Yarn Registry</title>
+      <link>https://quickanswer.surge.sh/posts/2020-06-01-yarn-set-registry/</link>
+      <pubDate>Mon, 01 Jun 2020 00:19:30 +0800</pubDate>
+      
+      <guid>https://quickanswer.surge.sh/posts/2020-06-01-yarn-set-registry/</guid>
+      <description>change yarn official registry to your custom registry globally</description>
+    </item>
+    
+    <item>
+      <title>Sequelize |&gt; Show Debug info in Sequelize Cli</title>
+      <link>https://quickanswer.surge.sh/posts/2020-05-18-sequelize-cli-debug/</link>
+      <pubDate>Mon, 18 May 2020 02:14:57 +0800</pubDate>
+      
+      <guid>https://quickanswer.surge.sh/posts/2020-05-18-sequelize-cli-debug/</guid>
+      <description>display sequelize cli debug info</description>
+    </item>
+    
+  </channel>
+</rss>

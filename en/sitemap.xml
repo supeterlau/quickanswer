@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/docker/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/linux/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/macos/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/redis/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-06-06-how-to-install-only-redis-cli/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/</loc>
+    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/nodejs/</loc>
+    <lastmod>2020-06-01T00:19:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/yarn/</loc>
+    <lastmod>2020-06-01T00:19:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-06-01-yarn-set-registry/</loc>
+    <lastmod>2020-06-01T00:19:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/gnupg/</loc>
+    <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/homebrew/</loc>
+    <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/mac/</loc>
+    <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-06-01-install-gnupg-on-mac/</loc>
+    <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/following/</loc>
+    <lastmod>2020-05-25T03:47:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/github/</loc>
+    <lastmod>2020-05-24T16:57:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/ssh/</loc>
+    <lastmod>2020-05-24T16:57:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-24-github-ssh-key/</loc>
+    <lastmod>2020-05-24T16:57:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/sequelize/</loc>
+    <lastmod>2020-05-18T02:14:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-18-sequelize-cli-debug/</loc>
+    <lastmod>2020-05-18T02:14:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/tutorial/</loc>
+    <lastmod>2020-05-14T12:11:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-14-tutorials/</loc>
+    <lastmod>2020-05-14T12:11:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/vim/</loc>
+    <lastmod>2020-05-14T11:40:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-14-vim-reload-current-file/</loc>
+    <lastmod>2020-05-14T11:40:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/hugo/</loc>
+    <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/tags/hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-02-hugo-custom-shortcodes/</loc>
+    <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/posts/2020-05-02-hugo-custom-shortcodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-02-hugo-code-highlight/</loc>
+    <lastmod>2020-05-02T16:34:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/posts/2020-05-02-hugo-code-highlight/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/tags/mongodb/</loc>
+    <lastmod>2020-05-02T16:10:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/tags/mongodb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/tags/mongodb/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</loc>
+    <lastmod>2020-05-02T16:10:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/archives/</loc>
+    <lastmod>2020-05-02T16:06:25+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/archives/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/about/</loc>
+    <lastmod>2020-05-02T03:47:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/roadmap/</loc>
+    <lastmod>2020-05-02T03:47:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</loc>
+    <lastmod>2020-03-26T00:45:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.surge.sh/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.surge.sh/zh/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.surge.sh/search/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GnuPG on (Quick Answer)</title>
+    <link>https://quickanswer.surge.sh/tags/gnupg/</link>
+    <description>Recent content in GnuPG on (Quick Answer)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:02:55 +0800</lastBuildDate>
+    
+	<atom:link href="https://quickanswer.surge.sh/tags/gnupg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MAC |&gt; Install GnuPG on Mac</title>
+      <link>https://quickanswer.surge.sh/posts/2020-06-01-install-gnupg-on-mac/</link>
+      <pubDate>Mon, 01 Jun 2020 00:02:55 +0800</pubDate>
+      
+      <guid>https://quickanswer.surge.sh/posts/2020-06-01-install-gnupg-on-mac/</guid>
+      <description>Install GnuPG to verify the authenticity of the downloaded archives</description>
+    </item>
+    
+  </channel>
+</rss>

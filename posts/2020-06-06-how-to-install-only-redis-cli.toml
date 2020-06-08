@@ -1,0 +1,8 @@
+description = "Talk about the Docker way to avoid install redis-server on your local machine"
+images = ["https://images.unsplash.com/photo-1591562843644-f2b400149c8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"]
+title = "Redis |> How to Install Redis Cli Only on Your macOS/Linux"
+audio = []
+date = "2020-06-06"
+series = []
+tags = []
+videos = []

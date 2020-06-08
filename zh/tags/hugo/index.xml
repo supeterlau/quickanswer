@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on (Quick Answer)</title>
+    <link>https://quickanswer.surge.sh/zh/tags/hugo/</link>
+    <description>Recent content in Hugo on (Quick Answer)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 May 2020 16:38:02 +0800</lastBuildDate>
+    
+	<atom:link href="https://quickanswer.surge.sh/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo |&gt; Hugo Custom Shortcodes</title>
+      <link>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/</link>
+      <pubDate>Sat, 02 May 2020 16:38:02 +0800</pubDate>
+      
+      <guid>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/</guid>
+      <description>create a shortcode</description>
+    </item>
+    
+    <item>
+      <title>Hugo |&gt; Customize Hugo Code Highlight</title>
+      <link>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/</link>
+      <pubDate>Sat, 02 May 2020 16:34:18 +0800</pubDate>
+      
+      <guid>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/</guid>
+      <description>config your hugo code highlight theme</description>
+    </item>
+    
+  </channel>
+</rss>
