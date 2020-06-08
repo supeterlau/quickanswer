@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(Quick Answer)</title>
-    <link>https://quickanswer.surge.sh/zh/</link>
+    <link>https://quickanswer.awesomefe.dev/zh/</link>
     <description>Recent content on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 May 2020 16:38:02 +0800</lastBuildDate>
     
-	<atom:link href="https://quickanswer.surge.sh/zh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quickanswer.awesomefe.dev/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo |&gt; Hugo Custom Shortcodes</title>
-      <link>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-custom-shortcodes/</link>
       <pubDate>Sat, 02 May 2020 16:38:02 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-custom-shortcodes/</guid>
       <description>create a shortcode</description>
     </item>
     
     <item>
       <title>Hugo |&gt; Customize Hugo Code Highlight</title>
-      <link>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-code-highlight/</link>
       <pubDate>Sat, 02 May 2020 16:34:18 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-code-highlight/</guid>
       <description>config your hugo code highlight theme</description>
     </item>
     
     <item>
       <title>MongoDB |&gt; server selection error: server selection timeout Type: ReplicaSetNoPrimary</title>
-      <link>https://quickanswer.surge.sh/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</link>
       <pubDate>Sat, 02 May 2020 16:10:40 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</guid>
       <description>error connecting to host: could not connect to server: server selection error: Type: ReplicaSetNoPrimary</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://quickanswer.surge.sh/zh/archives/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/archives/</link>
       <pubDate>Sat, 02 May 2020 16:06:25 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/archives/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABOUT</title>
-      <link>https://quickanswer.surge.sh/zh/about/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/about/</link>
       <pubDate>Sat, 02 May 2020 03:47:45 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/about/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/about/</guid>
       <description>所有内容均搜集于互联网，经测试有效。
 ALL OF THE ANSWERS ARE COLLECTED FROM World Wide Web, ALL VERIFIED BY PRACTICE (AT LEAST WHEN UPDATED).
 How To Ask Questions The Smart Way
@@ -65,19 +65,19 @@ Great Thanks to:
     
     <item>
       <title>MongoDB |&gt; How to Select a Single Field for All Documents in a MongoDB Collection</title>
-      <link>https://quickanswer.surge.sh/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</link>
       <pubDate>Thu, 26 Mar 2020 00:35:45 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</guid>
       <description>get things we want, no more no less</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://quickanswer.surge.sh/zh/search/</link>
+      <link>https://quickanswer.awesomefe.dev/zh/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://quickanswer.surge.sh/zh/search/</guid>
+      <guid>https://quickanswer.awesomefe.dev/zh/search/</guid>
       <description></description>
     </item>
     

@@ -3,181 +3,181 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/"
+                href="https://quickanswer.awesomefe.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/"
+                href="https://quickanswer.awesomefe.dev/zh/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/tags/hugo/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/tags/hugo/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/tags/hugo/"
+                href="https://quickanswer.awesomefe.dev/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/tags/hugo/"
+                href="https://quickanswer.awesomefe.dev/zh/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-custom-shortcodes/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/posts/2020-05-02-hugo-custom-shortcodes/"
+                href="https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-custom-shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-custom-shortcodes/"
+                href="https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-custom-shortcodes/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/posts/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/posts/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/posts/"
+                href="https://quickanswer.awesomefe.dev/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/posts/"
+                href="https://quickanswer.awesomefe.dev/zh/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/tags/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/tags/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/tags/"
+                href="https://quickanswer.awesomefe.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/tags/"
+                href="https://quickanswer.awesomefe.dev/zh/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-code-highlight/</loc>
     <lastmod>2020-05-02T16:34:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/posts/2020-05-02-hugo-code-highlight/"
+                href="https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-code-highlight/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/posts/2020-05-02-hugo-code-highlight/"
+                href="https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-code-highlight/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/tags/mongodb/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/tags/mongodb/</loc>
     <lastmod>2020-05-02T16:10:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/tags/mongodb/"
+                href="https://quickanswer.awesomefe.dev/tags/mongodb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/tags/mongodb/"
+                href="https://quickanswer.awesomefe.dev/zh/tags/mongodb/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</loc>
     <lastmod>2020-05-02T16:10:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/"
+                href="https://quickanswer.awesomefe.dev/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/"
+                href="https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/archives/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/archives/</loc>
     <lastmod>2020-05-02T16:06:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/archives/"
+                href="https://quickanswer.awesomefe.dev/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/archives/"
+                href="https://quickanswer.awesomefe.dev/zh/archives/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/about/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/about/</loc>
     <lastmod>2020-05-02T03:47:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/about/"
+                href="https://quickanswer.awesomefe.dev/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/about/"
+                href="https://quickanswer.awesomefe.dev/zh/about/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</loc>
     <lastmod>2020-03-26T00:45:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/"
+                href="https://quickanswer.awesomefe.dev/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/"
+                href="https://quickanswer.awesomefe.dev/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/"
                 />
   </url>
   
   <url>
-    <loc>https://quickanswer.surge.sh/zh/search/</loc>
+    <loc>https://quickanswer.awesomefe.dev/zh/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quickanswer.surge.sh/search/"
+                href="https://quickanswer.awesomefe.dev/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://quickanswer.surge.sh/zh/search/"
+                href="https://quickanswer.awesomefe.dev/zh/search/"
                 />
   </url>
   

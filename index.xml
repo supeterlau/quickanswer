@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(Quick Answer)</title>
-    <link>https://quickanswer.surge.sh/</link>
+    <link>https://quickanswer.awesomefe.dev/</link>
     <description>Recent content on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jun 2020 18:01:12 +0800</lastBuildDate>
     
-	<atom:link href="https://quickanswer.surge.sh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quickanswer.awesomefe.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Redis |&gt; How to Install Redis Cli Only on Your macOS/Linux</title>
-      <link>https://quickanswer.surge.sh/posts/2020-06-06-how-to-install-only-redis-cli/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-06-06-how-to-install-only-redis-cli/</link>
       <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-06-06-how-to-install-only-redis-cli/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-06-06-how-to-install-only-redis-cli/</guid>
       <description>Talk about the Docker way to avoid install redis-server on your local machine</description>
     </item>
     
     <item>
       <title>Yarn |&gt; Change Yarn Registry</title>
-      <link>https://quickanswer.surge.sh/posts/2020-06-01-yarn-set-registry/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-06-01-yarn-set-registry/</link>
       <pubDate>Mon, 01 Jun 2020 00:19:30 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-06-01-yarn-set-registry/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-06-01-yarn-set-registry/</guid>
       <description>change yarn official registry to your custom registry globally</description>
     </item>
     
     <item>
       <title>MAC |&gt; Install GnuPG on Mac</title>
-      <link>https://quickanswer.surge.sh/posts/2020-06-01-install-gnupg-on-mac/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-06-01-install-gnupg-on-mac/</link>
       <pubDate>Mon, 01 Jun 2020 00:02:55 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-06-01-install-gnupg-on-mac/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-06-01-install-gnupg-on-mac/</guid>
       <description>Install GnuPG to verify the authenticity of the downloaded archives</description>
     </item>
     
     <item>
       <title>FOLLOWING</title>
-      <link>https://quickanswer.surge.sh/following/</link>
+      <link>https://quickanswer.awesomefe.dev/following/</link>
       <pubDate>Mon, 25 May 2020 03:47:45 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/following/</guid>
+      <guid>https://quickanswer.awesomefe.dev/following/</guid>
       <description>qaRabbit
 Topic: 100daysofCode
 Service: Kofi
@@ -61,83 +61,83 @@ Jeremy Thomas
     
     <item>
       <title>SSH |&gt; Setup SSH for GitHub or other similar services</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-24-github-ssh-key/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-24-github-ssh-key/</link>
       <pubDate>Sun, 24 May 2020 16:57:46 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-24-github-ssh-key/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-24-github-ssh-key/</guid>
       <description>generate and manage your ssh keys</description>
     </item>
     
     <item>
       <title>Sequelize |&gt; Show Debug info in Sequelize Cli</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-18-sequelize-cli-debug/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-18-sequelize-cli-debug/</link>
       <pubDate>Mon, 18 May 2020 02:14:57 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-18-sequelize-cli-debug/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-18-sequelize-cli-debug/</guid>
       <description>display sequelize cli debug info</description>
     </item>
     
     <item>
       <title>Tutorials</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-14-tutorials/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-14-tutorials/</link>
       <pubDate>Thu, 14 May 2020 12:11:57 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-14-tutorials/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-14-tutorials/</guid>
       <description>Good Tutorials
  Git: https://www.atlassian.com/git/tutorials  </description>
     </item>
     
     <item>
       <title>VIM |&gt; Reload Current File</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-14-vim-reload-current-file/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-14-vim-reload-current-file/</link>
       <pubDate>Thu, 14 May 2020 11:40:49 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-14-vim-reload-current-file/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-14-vim-reload-current-file/</guid>
       <description>reload current file in vim</description>
     </item>
     
     <item>
       <title>Hugo |&gt; Hugo Custom Shortcodes</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-02-hugo-custom-shortcodes/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-custom-shortcodes/</link>
       <pubDate>Sat, 02 May 2020 16:38:02 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-02-hugo-custom-shortcodes/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-custom-shortcodes/</guid>
       <description>create a shortcode</description>
     </item>
     
     <item>
       <title>Hugo |&gt; Customize Hugo Code Highlight</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-02-hugo-code-highlight/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-code-highlight/</link>
       <pubDate>Sat, 02 May 2020 16:34:18 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-02-hugo-code-highlight/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-code-highlight/</guid>
       <description>config your hugo code highlight theme</description>
     </item>
     
     <item>
       <title>MongoDB |&gt; server selection error: server selection timeout Type: ReplicaSetNoPrimary</title>
-      <link>https://quickanswer.surge.sh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</link>
       <pubDate>Sat, 02 May 2020 16:10:40 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</guid>
       <description>error connecting to host: could not connect to server: server selection error: Type: ReplicaSetNoPrimary</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://quickanswer.surge.sh/archives/</link>
+      <link>https://quickanswer.awesomefe.dev/archives/</link>
       <pubDate>Sat, 02 May 2020 16:06:25 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/archives/</guid>
+      <guid>https://quickanswer.awesomefe.dev/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABOUT</title>
-      <link>https://quickanswer.surge.sh/about/</link>
+      <link>https://quickanswer.awesomefe.dev/about/</link>
       <pubDate>Sat, 02 May 2020 03:47:45 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/about/</guid>
+      <guid>https://quickanswer.awesomefe.dev/about/</guid>
       <description>ALL OF THE ANSWERS ARE COLLECTED FROM World Wide Web, ALL VERIFIED BY PRACTICE (AT LEAST WHEN UPDATED).
 How To Ask Questions The Smart Way
 提問的智慧
@@ -149,28 +149,28 @@ Great Thanks to:
     
     <item>
       <title>ROADMAP</title>
-      <link>https://quickanswer.surge.sh/roadmap/</link>
+      <link>https://quickanswer.awesomefe.dev/roadmap/</link>
       <pubDate>Sat, 02 May 2020 03:47:45 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/roadmap/</guid>
+      <guid>https://quickanswer.awesomefe.dev/roadmap/</guid>
       <description>2020-05-30 add comments widget by Utterances</description>
     </item>
     
     <item>
       <title>MongoDB |&gt; How to Select a Single Field for All Documents in a MongoDB Collection</title>
-      <link>https://quickanswer.surge.sh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</link>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</link>
       <pubDate>Thu, 26 Mar 2020 00:35:45 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</guid>
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</guid>
       <description>get things we want, no more no less</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://quickanswer.surge.sh/search/</link>
+      <link>https://quickanswer.awesomefe.dev/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://quickanswer.surge.sh/search/</guid>
+      <guid>https://quickanswer.awesomefe.dev/search/</guid>
       <description></description>
     </item>
     

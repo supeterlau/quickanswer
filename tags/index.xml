@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on (Quick Answer)</title>
-    <link>https://quickanswer.surge.sh/tags/</link>
+    <link>https://quickanswer.awesomefe.dev/tags/</link>
     <description>Recent content in Tags on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jun 2020 18:01:12 +0800</lastBuildDate>
     
-	<atom:link href="https://quickanswer.surge.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quickanswer.awesomefe.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker</title>
-      <link>https://quickanswer.surge.sh/tags/docker/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/docker/</link>
       <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/docker/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://quickanswer.surge.sh/tags/linux/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/linux/</link>
       <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/linux/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>macOS</title>
-      <link>https://quickanswer.surge.sh/tags/macos/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/macos/</link>
       <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/macos/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>https://quickanswer.surge.sh/tags/redis/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/redis/</link>
       <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/redis/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NodeJS</title>
-      <link>https://quickanswer.surge.sh/tags/nodejs/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/nodejs/</link>
       <pubDate>Mon, 01 Jun 2020 00:19:30 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/nodejs/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yarn</title>
-      <link>https://quickanswer.surge.sh/tags/yarn/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/yarn/</link>
       <pubDate>Mon, 01 Jun 2020 00:19:30 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/yarn/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/yarn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GnuPG</title>
-      <link>https://quickanswer.surge.sh/tags/gnupg/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/gnupg/</link>
       <pubDate>Mon, 01 Jun 2020 00:02:55 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/gnupg/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/gnupg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homebrew</title>
-      <link>https://quickanswer.surge.sh/tags/homebrew/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/homebrew/</link>
       <pubDate>Mon, 01 Jun 2020 00:02:55 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/homebrew/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/homebrew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAC</title>
-      <link>https://quickanswer.surge.sh/tags/mac/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/mac/</link>
       <pubDate>Mon, 01 Jun 2020 00:02:55 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/mac/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://quickanswer.surge.sh/tags/github/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/github/</link>
       <pubDate>Sun, 24 May 2020 16:57:46 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/github/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSH</title>
-      <link>https://quickanswer.surge.sh/tags/ssh/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/ssh/</link>
       <pubDate>Sun, 24 May 2020 16:57:46 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/ssh/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/ssh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequelize</title>
-      <link>https://quickanswer.surge.sh/tags/sequelize/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/sequelize/</link>
       <pubDate>Mon, 18 May 2020 02:14:57 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/sequelize/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/sequelize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://quickanswer.surge.sh/tags/tutorial/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/tutorial/</link>
       <pubDate>Thu, 14 May 2020 12:11:57 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/tutorial/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VIM</title>
-      <link>https://quickanswer.surge.sh/tags/vim/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/vim/</link>
       <pubDate>Thu, 14 May 2020 11:40:49 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/vim/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://quickanswer.surge.sh/tags/hugo/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/hugo/</link>
       <pubDate>Sat, 02 May 2020 16:38:02 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/hugo/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>https://quickanswer.surge.sh/tags/mongodb/</link>
+      <link>https://quickanswer.awesomefe.dev/tags/mongodb/</link>
       <pubDate>Sat, 02 May 2020 16:10:40 +0800</pubDate>
       
-      <guid>https://quickanswer.surge.sh/tags/mongodb/</guid>
+      <guid>https://quickanswer.awesomefe.dev/tags/mongodb/</guid>
       <description></description>
     </item>
     
