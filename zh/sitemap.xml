@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +22,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/tags/hugo/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,6 +39,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-custom-shortcodes/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,6 +56,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/posts/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,6 +73,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/tags/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,6 +90,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-hugo-code-highlight/</loc>
     <lastmod>2020-05-02T16:34:18+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -95,6 +107,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/tags/mongodb/</loc>
     <lastmod>2020-05-02T16:10:40+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,6 +124,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</loc>
     <lastmod>2020-05-02T16:10:40+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -125,6 +141,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/archives/</loc>
     <lastmod>2020-05-02T16:06:25+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -140,6 +158,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/about/</loc>
     <lastmod>2020-05-02T03:47:45+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -155,6 +175,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</loc>
     <lastmod>2020-03-26T00:45:45+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -169,6 +191,8 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/zh/search/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

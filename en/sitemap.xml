@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -20,21 +22,29 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/docker/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/linux/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/macos/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -50,16 +60,22 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/redis/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-06-06-how-to-install-only-redis-cli/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -75,91 +91,127 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/nodejs/</loc>
     <lastmod>2020-06-01T00:19:30+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/yarn/</loc>
     <lastmod>2020-06-01T00:19:30+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-06-01-yarn-set-registry/</loc>
     <lastmod>2020-06-01T00:19:30+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/gnupg/</loc>
     <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/homebrew/</loc>
     <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/mac/</loc>
     <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-06-01-install-gnupg-on-mac/</loc>
     <lastmod>2020-06-01T00:02:55+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/following/</loc>
     <lastmod>2020-05-25T03:47:45+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/github/</loc>
     <lastmod>2020-05-24T16:57:46+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/ssh/</loc>
     <lastmod>2020-05-24T16:57:46+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-24-github-ssh-key/</loc>
     <lastmod>2020-05-24T16:57:46+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/sequelize/</loc>
     <lastmod>2020-05-18T02:14:57+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-18-sequelize-cli-debug/</loc>
     <lastmod>2020-05-18T02:14:57+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/tutorial/</loc>
     <lastmod>2020-05-14T12:11:57+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-14-tutorials/</loc>
     <lastmod>2020-05-14T12:11:57+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/vim/</loc>
     <lastmod>2020-05-14T11:40:49+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-14-vim-reload-current-file/</loc>
     <lastmod>2020-05-14T11:40:49+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/hugo/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -175,6 +227,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-custom-shortcodes/</loc>
     <lastmod>2020-05-02T16:38:02+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -190,6 +244,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-02-hugo-code-highlight/</loc>
     <lastmod>2020-05-02T16:34:18+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -205,6 +261,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/mongodb/</loc>
     <lastmod>2020-05-02T16:10:40+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -220,6 +278,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-02-server-selection-error-server-selection-timeout-type-replicasetnoprimary/</loc>
     <lastmod>2020-05-02T16:10:40+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -235,6 +295,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/archives/</loc>
     <lastmod>2020-05-02T16:06:25+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -250,6 +312,8 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/about/</loc>
     <lastmod>2020-05-02T03:47:45+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -265,11 +329,15 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/roadmap/</loc>
     <lastmod>2020-05-02T03:47:45+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/</loc>
     <lastmod>2020-03-26T00:45:45+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -284,6 +352,8 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/search/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
