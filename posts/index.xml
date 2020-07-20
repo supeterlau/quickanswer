@@ -6,10 +6,19 @@
     <description>Recent content in Posts on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2020 12:03:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 12:20:35 +0800</lastBuildDate>
     
 	<atom:link href="https://quickanswer.awesomefe.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git |&gt; Avoid Error When Nothing to Commit</title>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-07-20-avoid-error-when-nothing-to-commit/</link>
+      <pubDate>Mon, 20 Jul 2020 12:20:35 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-07-20-avoid-error-when-nothing-to-commit/</guid>
+      <description>Checking the exit code of git diff-index to avoid git commit fail</description>
+    </item>
     
     <item>
       <title>Vim |&gt; How to Disable Fold When Launch Vim</title>
@@ -17,14 +26,7 @@
       <pubDate>Mon, 20 Jul 2020 12:03:50 +0800</pubDate>
       
       <guid>https://quickanswer.awesomefe.dev/posts/2020-07-20-how-to-disable-fold-when-launch-vim/</guid>
-      <description> Work:
-set foldlevelstart=99
-Not Work:
-set foldmethod=syntax
-set nofoldenable
-Use za zo zi to fold code.
- Reference:
- https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim  </description>
+      <description>disable vim fold</description>
     </item>
     
     <item>

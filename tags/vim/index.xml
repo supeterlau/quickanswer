@@ -17,14 +17,7 @@
       <pubDate>Mon, 20 Jul 2020 12:03:50 +0800</pubDate>
       
       <guid>https://quickanswer.awesomefe.dev/posts/2020-07-20-how-to-disable-fold-when-launch-vim/</guid>
-      <description> Work:
-set foldlevelstart=99
-Not Work:
-set foldmethod=syntax
-set nofoldenable
-Use za zo zi to fold code.
- Reference:
- https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim  </description>
+      <description>disable vim fold</description>
     </item>
     
     <item>

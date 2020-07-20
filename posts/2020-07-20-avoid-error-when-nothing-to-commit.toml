@@ -1,0 +1,8 @@
+description = "Checking the exit code of git diff-index to avoid git commit fail"
+images = ["https://cdn.svgporn.com/logos/git-icon.svg"]
+title = "Git |> Avoid Error When Nothing to Commit"
+audio = []
+date = "2020-07-20"
+series = []
+tags = []
+videos = []
