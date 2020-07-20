@@ -8,7 +8,7 @@
   <meta name="format-detection" content="telephone=no" />
 
   
-  <title>Vim |&gt; Reload Current File
+  <title>Vim |&gt; How to Disable Fold When Launch Vim
      - 
   </title>
 
@@ -22,7 +22,14 @@
 
   
   <meta name="description" content="
-    reload current file in vim
+     Work:
+set foldlevelstart=99
+Not Work:
+set foldmethod=syntax
+set nofoldenable
+Use za zo zi to fold code.
+ Reference:
+ https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim  
     ">
 
   
@@ -38,20 +45,34 @@
 
   
 
-  <meta property="og:title" content="Vim |&gt; Reload Current File" />
-<meta property="og:description" content="reload current file in vim" />
+  <meta property="og:title" content="Vim |&gt; How to Disable Fold When Launch Vim" />
+<meta property="og:description" content=" Work:
+set foldlevelstart=99
+Not Work:
+set foldmethod=syntax
+set nofoldenable
+Use za zo zi to fold code.
+ Reference:
+ https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim  " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://quickanswer.awesomefe.dev/posts/2020-05-14-vim-reload-current-file/" />
+<meta property="og:url" content="https://quickanswer.awesomefe.dev/posts/2020-07-20-how-to-disable-fold-when-launch-vim/" />
 <meta property="og:image" content="https://cn.bing.com/th?id=OHR.LaPertusa_ZH-CN7227946330_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4&r=0"/>
-<meta property="article:published_time" content="2020-05-14T11:40:49+08:00" />
-<meta property="article:modified_time" content="2020-05-14T11:40:49+08:00" />
+<meta property="article:published_time" content="2020-07-20T12:03:50+08:00" />
+<meta property="article:modified_time" content="2020-07-20T12:03:50+08:00" />
 
 
   <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://cn.bing.com/th?id=OHR.LaPertusa_ZH-CN7227946330_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4&r=0"/>
 
-<meta name="twitter:title" content="Vim |&gt; Reload Current File"/>
-<meta name="twitter:description" content="reload current file in vim"/>
+<meta name="twitter:title" content="Vim |&gt; How to Disable Fold When Launch Vim"/>
+<meta name="twitter:description" content=" Work:
+set foldlevelstart=99
+Not Work:
+set foldmethod=syntax
+set nofoldenable
+Use za zo zi to fold code.
+ Reference:
+ https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim  "/>
 
 
   
@@ -214,33 +235,35 @@ if (!doNotTrack) {
     <div id="content" class="content-container">
       
 
-<h2 class="post-title">Vim |&gt; Reload Current File</h2>
+<h2 class="post-title">Vim |&gt; How to Disable Fold When Launch Vim</h2>
 <hr />
 <p class="post-date">
     
-    Published: <time>May 14, 2020</time>
+    Published: <time>July 20, 2020</time>
     
 </p>
 <p class="post-date">
     
-    Lastmod: <time>May 14, 2020</time>
+    Lastmod: <time>July 20, 2020</time>
     
 </p>
 
 <div>
     <p>
         <hr>
-<p>A quick way to reload the file without having to close and reopen Vim</p>
-<p>command <code>:e</code> (short for <code>:edit</code>)</p>
-<p><code>:edit!</code> means you want discard local changes (changes in Vim) and reload file.</p>
-<!-- Also can reload automatically -->
+<p><strong>Work</strong>:</p>
+<p><code>set foldlevelstart=99</code></p>
+<p><strong>Not Work</strong>:</p>
+<p><code>set foldmethod=syntax</code></p>
+<p><code>set nofoldenable</code></p>
+<p>Use <code>za</code> <code>zo</code> <code>zi</code> to fold code.</p>
 <hr>
-<p><em>References</em>:</p>
+<p><em>Reference</em>:</p>
 <ul>
   
-  <li><a href="https://vi.stackexchange.com/questions/444/how-do-i-reload-the-current-file">https://vi.stackexchange.com/questions/444/how-do-i-reload-the-current-file</a></li>
+  <li><a href="https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched">https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched</a></li>
   
-  <li><a href="https://vi.stackexchange.com/questions/444/how-do-i-reload-the-current-file/13092#13092">https://vi.stackexchange.com/questions/444/how-do-i-reload-the-current-file/13092#13092</a></li>
+  <li><a href="https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim">https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim</a></li>
   
 </ul>
 

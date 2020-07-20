@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/</loc>
-    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
+    <lastmod>2020-07-20T12:03:50+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,54 @@
                 hreflang="en"
                 href="https://quickanswer.awesomefe.dev/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/</loc>
+    <lastmod>2020-07-20T12:03:50+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.awesomefe.dev/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.awesomefe.dev/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/</loc>
+    <lastmod>2020-07-20T12:03:50+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.awesomefe.dev/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.awesomefe.dev/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/vim/</loc>
+    <lastmod>2020-07-20T12:03:50+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-20-how-to-disable-fold-when-launch-vim/</loc>
+    <lastmod>2020-07-20T12:03:50+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -41,23 +89,6 @@
   </url>
   
   <url>
-    <loc>https://quickanswer.awesomefe.dev/posts/</loc>
-    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://quickanswer.awesomefe.dev/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://quickanswer.awesomefe.dev/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://quickanswer.awesomefe.dev/tags/redis/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -69,23 +100,6 @@
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/</loc>
-    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://quickanswer.awesomefe.dev/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://quickanswer.awesomefe.dev/tags/"
-                />
   </url>
   
   <url>
@@ -189,13 +203,6 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-05-14-tutorials/</loc>
     <lastmod>2020-05-14T12:11:57+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/vim/</loc>
-    <lastmod>2020-05-14T11:40:49+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>

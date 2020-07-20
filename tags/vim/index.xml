@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VIM on (Quick Answer)</title>
+    <title>Vim on (Quick Answer)</title>
     <link>https://quickanswer.awesomefe.dev/tags/vim/</link>
-    <description>Recent content in VIM on (Quick Answer)</description>
+    <description>Recent content in Vim on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2020 11:40:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 12:03:50 +0800</lastBuildDate>
     
 	<atom:link href="https://quickanswer.awesomefe.dev/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>VIM |&gt; Reload Current File</title>
+      <title>Vim |&gt; How to Disable Fold When Launch Vim</title>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-07-20-how-to-disable-fold-when-launch-vim/</link>
+      <pubDate>Mon, 20 Jul 2020 12:03:50 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-07-20-how-to-disable-fold-when-launch-vim/</guid>
+      <description> Work:
+set foldlevelstart=99
+Not Work:
+set foldmethod=syntax
+set nofoldenable
+Use za zo zi to fold code.
+ Reference:
+ https://vi.stackexchange.com/questions/12334/how-to-prevent-folding-when-vim-is-launched https://unix.stackexchange.com/questions/141097/how-to-enable-and-use-code-folding-in-vim  </description>
+    </item>
+    
+    <item>
+      <title>Vim |&gt; Reload Current File</title>
       <link>https://quickanswer.awesomefe.dev/posts/2020-05-14-vim-reload-current-file/</link>
       <pubDate>Thu, 14 May 2020 11:40:49 +0800</pubDate>
       
