@@ -8,7 +8,7 @@
   <meta name="format-detection" content="telephone=no" />
 
   
-  <title>MongoDB |&gt; How to Select a Single Field for All Documents in a MongoDB Collection
+  <title>VSCode |&gt; Regex in Search Bar (1)
      - 
   </title>
 
@@ -22,7 +22,7 @@
 
   
   <meta name="description" content="
-    get things we want, no more no less
+    Negative lookahead in VSCode search bar
     ">
 
   
@@ -31,24 +31,24 @@
 
   
   
-  <meta name="keywords" content="MongoDB, 
+  <meta name="keywords" content="VSCode, JavaScript, Regex, 
   digital marketing, content marketing, seo tips, howto" />
   
   
 
   
 
-  <meta property="og:title" content="MongoDB |&gt; How to Select a Single Field for All Documents in a MongoDB Collection" />
-<meta property="og:description" content="get things we want, no more no less" />
+  <meta property="og:title" content="VSCode |&gt; Regex in Search Bar (1)" />
+<meta property="og:description" content="Negative lookahead in VSCode search bar" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://quickanswer.awesomefe.dev/posts/2020-03-26-how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection/" />
-<meta property="article:published_time" content="2020-03-26T00:35:45+08:00" />
-<meta property="article:modified_time" content="2020-03-26T00:45:45+08:00" />
+<meta property="og:url" content="https://quickanswer.awesomefe.dev/posts/2020-07-21-regex-in-vscode-1/" />
+<meta property="article:published_time" content="2020-07-21T18:06:20+08:00" />
+<meta property="article:modified_time" content="2020-07-21T18:06:20+08:00" />
 
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="MongoDB |&gt; How to Select a Single Field for All Documents in a MongoDB Collection"/>
-<meta name="twitter:description" content="get things we want, no more no less"/>
+<meta name="twitter:title" content="VSCode |&gt; Regex in Search Bar (1)"/>
+<meta name="twitter:description" content="Negative lookahead in VSCode search bar"/>
 
 
   
@@ -211,32 +211,75 @@ if (!doNotTrack) {
     <div id="content" class="content-container">
       
 
-<h2 class="post-title">MongoDB |&gt; How to Select a Single Field for All Documents in a MongoDB Collection</h2>
+<h2 class="post-title">VSCode |&gt; Regex in Search Bar (1)</h2>
 <hr />
 <p class="post-date">
     
-    Published: <time>March 26, 2020</time>
+    Published: <time>July 21, 2020</time>
     
 </p>
 <p class="post-date">
     
-    Lastmod: <time>March 26, 2020</time>
+    Lastmod: <time>July 21, 2020</time>
     
 </p>
 
 <div>
     <p>
-        <hr />
-<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="nx">db</span><span class="p">.</span><span class="nx">inventory</span><span class="p">.</span><span class="nx">find</span><span class="p">(</span> <span class="p">{</span> <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;food&#39;</span> <span class="p">},</span> <span class="p">{</span> <span class="nx">item</span><span class="o">:</span> <span class="mi">1</span><span class="p">,</span> <span class="nx">qty</span><span class="o">:</span> <span class="mi">1</span> <span class="p">}</span> <span class="p">)</span>
-</code></pre></div>
-<p>In above example from the folks at Mongo, the returned documents will contain only the fields of item, qty, and _id.</p>
-<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="nx">db</span><span class="p">.</span><span class="nx">inventory</span><span class="p">.</span><span class="nx">find</span><span class="p">(</span> <span class="p">{</span> <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;food&#39;</span> <span class="p">},</span> <span class="p">{</span> <span class="nx">item</span><span class="o">:</span> <span class="mi">1</span><span class="p">,</span> <span class="nx">qty</span><span class="o">:</span> <span class="mi">0</span> <span class="p">}</span> <span class="p">)</span>
-</code></pre></div>
-<p>In above example from the folks at Mongo, the returned documents will contain only the fields of item, and _id.</p>
+        <hr>
+<blockquote>
+<p>IF YOU JUST SOLVED SOME PROBLEM, WELCOME TO DM ME ON <a href="https://twitter.com/qaRabbitx">TWITTER</a>, OR CREATE A PULL REQUEST IN <a href="https://github.com/supeterlau/quickanswer">GITHUB REPO</a>.</p>
+</blockquote>
+<p>Get some user-agents:</p>
+<pre><code>Safari for iOS
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
+Android Browser
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Chrome Mobile
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36
+Opera Mobile (Blink rendering engine)
+Mozilla/5.0 (Linux; Android 7.0; SM-A310F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36 OPR/42.7.2246.114996
+Opera Mobile (Presto rendering engine)
+Opera/9.80 (Android 4.1.2; Linux; Opera Mobi/ADR-1305251841) Presto/2.11.355 Version/12.10
+Opera Mini
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21214/28.2725; U; ru) Presto/2.8.119 Version/11.10
+Opera Mini (iOS WebKit)
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) OPiOS/10.2.0.93022 Mobile/11D257 Safari/9537.53
+Firefox for Android
+Mozilla/5.0 (Android 7.0; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0
+Firefox for iOS
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) FxiOS/7.5b3349 Mobile/14F89 Safari/603.2.4
+UC Browser
+Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-G935F Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.8.976 U3/0.8.0 Mobile Safari/534.30&quot;
+Dolphin
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
+Puffin for Android
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N750K Build/LMY47X; ko-kr) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Puffin/6.0.8.15804AP
+Puffin for iOS
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N750K Build/LMY47X; ko-kr) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Puffin/6.0.8.15804AP
+Samsung Browser
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G955U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 Chrome/51.0.2704.106 Mobile Safari/537.36
+Yandex Browser
+Mozilla/5.0 (Linux; Android 6.0; Lenovo K50a40 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.137 YaBrowser/17.4.1.352.00 Mobile Safari/537.36
+MIUI Browser
+Mozilla/5.0 (Linux; U; Android 7.0; en-us; MI 5 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.146 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.0.3
+IE Mobile
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; Microsoft; Lumia 950)
+Edge Mobile
+Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Mobile Safari/537.36 Edge/15.14977
+BlackBerry Browser
+Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.2205 Mobile Safari/537.35+
+</code></pre>
+<p>So, how can i remove browser names between user agents?</p>
+<p>We can select all those line not start with &ldquo;Mozilla&rdquo; or &ldquo;Opera/9&rdquo;.</p>
+<p>In search bar of VSCode, we need to turn on regex mode. We will use <strong>negative lookahead</strong> in search bar (just as we do in JavaScript).</p>
+<p>Just input: <code>^(?!(Mozilla|Opera\/).*).*</code> and replace all selected area with empty. We will get clean user agents.</p>
 <hr>
-<p><em>References</em>:</p>
+<p><em>Reference</em>:</p>
 <ul>
-<li><a href="https://stackoverflow.com/questions/25589113/how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection">https://stackoverflow.com/questions/25589113/how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection</a></li>
+  
+  <li><a href="https://stackoverflow.com/questions/7674172/javascript-regex-excluding-certain-word-phrase">https://stackoverflow.com/questions/7674172/javascript-regex-excluding-certain-word-phrase</a></li>
+  
 </ul>
 
     </p>
@@ -263,7 +306,11 @@ if (!doNotTrack) {
     
     <hr class="footer-divider">
     
-    <a class="tag" href="/tags/mongodb">#MongoDB</a>
+    <a class="tag" href="/tags/vscode">#VSCode</a>
+    
+    <a class="tag" href="/tags/javascript">#JavaScript</a>
+    
+    <a class="tag" href="/tags/regex">#Regex</a>
     
     
 </div>

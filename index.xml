@@ -6,10 +6,19 @@
     <description>Recent content on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2020 12:20:35 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 18:06:20 +0800</lastBuildDate>
     
 	<atom:link href="https://quickanswer.awesomefe.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VSCode |&gt; Regex in Search Bar (1)</title>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-07-21-regex-in-vscode-1/</link>
+      <pubDate>Tue, 21 Jul 2020 18:06:20 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-07-21-regex-in-vscode-1/</guid>
+      <description>Negative lookahead in VSCode search bar</description>
+    </item>
     
     <item>
       <title>Git |&gt; Avoid Error When Nothing to Commit</title>

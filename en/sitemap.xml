@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/</loc>
-    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,22 +20,15 @@
   </url>
   
   <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/git/</loc>
-    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-20-avoid-error-when-nothing-to-commit/</loc>
-    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
+    <loc>https://quickanswer.awesomefe.dev/tags/javascript/</loc>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/</loc>
-    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -51,8 +44,15 @@
   </url>
   
   <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/regex/</loc>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://quickanswer.awesomefe.dev/tags/</loc>
-    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -65,6 +65,34 @@
                 hreflang="en"
                 href="https://quickanswer.awesomefe.dev/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/vscode/</loc>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-21-regex-in-vscode-1/</loc>
+    <lastmod>2020-07-21T18:06:20+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/git/</loc>
+    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-20-avoid-error-when-nothing-to-commit/</loc>
+    <lastmod>2020-07-20T12:20:35+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
