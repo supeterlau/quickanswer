@@ -1,5 +1,5 @@
 description = "Negative lookahead in VSCode search bar"
-images = ["https://cdn.svgporn.com/logos/git-icon.svg"]
+images = ["https://cdn.svgporn.com/logos/visual-studio-code.svg"]
 title = "VSCode |> Regex in Search Bar (1)"
 audio = []
 date = "2020-07-20"
