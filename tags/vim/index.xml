@@ -6,10 +6,19 @@
     <description>Recent content in Vim on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2020 12:03:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 21:11:04 +0800</lastBuildDate>
     
 	<atom:link href="https://quickanswer.awesomefe.dev/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vim |&gt; Solve Makefile Error &#39;Missing Separator. Stop&#39; in Vim</title>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-07-22-solve-makefile-missing-separator.-stop.-error-in-vim/</link>
+      <pubDate>Wed, 22 Jul 2020 21:11:04 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-07-22-solve-makefile-missing-separator.-stop.-error-in-vim/</guid>
+      <description>Replace spaces with tab in Vim</description>
+    </item>
     
     <item>
       <title>Vim |&gt; How to Disable Fold When Launch Vim</title>

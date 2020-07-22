@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/</loc>
-    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,8 +20,15 @@
   </url>
   
   <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/makefile/</loc>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://quickanswer.awesomefe.dev/posts/</loc>
-    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -37,22 +44,8 @@
   </url>
   
   <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/python/</loc>
-    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-22-python-subprocess.popen-custom-environment/</loc>
-    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://quickanswer.awesomefe.dev/tags/</loc>
-    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -65,6 +58,34 @@
                 hreflang="en"
                 href="https://quickanswer.awesomefe.dev/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/vim/</loc>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-22-solve-makefile-missing-separator.-stop.-error-in-vim/</loc>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/python/</loc>
+    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-22-python-subprocess.popen-custom-environment/</loc>
+    <lastmod>2020-07-22T20:38:29+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -105,13 +126,6 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/2020-07-20-avoid-error-when-nothing-to-commit/</loc>
     <lastmod>2020-07-20T12:20:35+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/vim/</loc>
-    <lastmod>2020-07-20T12:03:50+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
