@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/</loc>
-    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,15 +20,29 @@
   </url>
   
   <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/makefile/</loc>
-    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <loc>https://quickanswer.awesomefe.dev/tags/cli/</loc>
+    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-22-exclude-directories-in-grep/</loc>
+    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/grep/</loc>
+    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/posts/</loc>
-    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -45,7 +59,7 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/</loc>
-    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -58,6 +72,34 @@
                 hreflang="en"
                 href="https://quickanswer.awesomefe.dev/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/macos/</loc>
+    <lastmod>2020-07-22T21:21:23+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-07-22-converting-svg-to-png-on-macos-via-cli/</loc>
+    <lastmod>2020-07-22T21:21:23+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/svg/</loc>
+    <lastmod>2020-07-22T21:21:23+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/makefile/</loc>
+    <lastmod>2020-07-22T21:11:04+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -146,13 +188,6 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/linux/</loc>
-    <lastmod>2020-06-06T18:01:12+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/macos/</loc>
     <lastmod>2020-06-06T18:01:12+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>

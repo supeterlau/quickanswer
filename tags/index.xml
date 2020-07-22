@@ -6,10 +6,46 @@
     <description>Recent content in Tags on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2020 21:11:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 21:56:00 +0800</lastBuildDate>
     
 	<atom:link href="https://quickanswer.awesomefe.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CLI</title>
+      <link>https://quickanswer.awesomefe.dev/tags/cli/</link>
+      <pubDate>Wed, 22 Jul 2020 21:56:00 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grep</title>
+      <link>https://quickanswer.awesomefe.dev/tags/grep/</link>
+      <pubDate>Wed, 22 Jul 2020 21:56:00 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/tags/grep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macOS</title>
+      <link>https://quickanswer.awesomefe.dev/tags/macos/</link>
+      <pubDate>Wed, 22 Jul 2020 21:21:23 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVG</title>
+      <link>https://quickanswer.awesomefe.dev/tags/svg/</link>
+      <pubDate>Wed, 22 Jul 2020 21:21:23 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/tags/svg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Makefile</title>
@@ -89,15 +125,6 @@
       <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
       
       <guid>https://quickanswer.awesomefe.dev/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>macOS</title>
-      <link>https://quickanswer.awesomefe.dev/tags/macos/</link>
-      <pubDate>Sat, 06 Jun 2020 18:01:12 +0800</pubDate>
-      
-      <guid>https://quickanswer.awesomefe.dev/tags/macos/</guid>
       <description></description>
     </item>
     
