@@ -6,10 +6,19 @@
     <description>Recent content in Posts on (Quick Answer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2020 20:23:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 23:50:24 +0800</lastBuildDate>
     
 	<atom:link href="https://quickanswer.awesomefe.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>macOS |&gt; Solve macOS No Voice After Sleep</title>
+      <link>https://quickanswer.awesomefe.dev/posts/2020-08-26-solve-macos-no-voice-after-sleep/</link>
+      <pubDate>Wed, 26 Aug 2020 23:50:24 +0800</pubDate>
+      
+      <guid>https://quickanswer.awesomefe.dev/posts/2020-08-26-solve-macos-no-voice-after-sleep/</guid>
+      <description>A trick to solve macOS no voice after sleep</description>
+    </item>
     
     <item>
       <title>SSH |&gt; Covert New Format SSH Private Key to PEM</title>
