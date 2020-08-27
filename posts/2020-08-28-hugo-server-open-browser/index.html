@@ -8,7 +8,7 @@
   <meta name="format-detection" content="telephone=no" />
 
   
-  <title>SSL
+  <title>Hugo |&gt; Dev Server Open Browser
      - 
   </title>
 
@@ -22,8 +22,7 @@
 
   
   <meta name="description" content="
-    
-    🎉 QuickAnswer help people obtain useful answers more quickly. 🎉
+    a simple way to open browser
     ">
 
   
@@ -32,22 +31,27 @@
 
   
   
-  <meta name="keywords" content="digital marketing, content marketing, seo tips, howto" />
+  <meta name="keywords" content="macOS, Hugo, 
+  digital marketing, content marketing, seo tips, howto" />
   
   
 
   
 
-  <meta property="og:title" content="SSL" />
-<meta property="og:description" content="🎉 QuickAnswer help people obtain useful answers more quickly. 🎉" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://quickanswer.awesomefe.dev/tags/ssl/" />
-<meta property="og:updated_time" content="2020-08-25T20:08:59+08:00" />
+  <meta property="og:title" content="Hugo |&gt; Dev Server Open Browser" />
+<meta property="og:description" content="a simple way to open browser" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://quickanswer.awesomefe.dev/posts/2020-08-28-hugo-server-open-browser/" />
+<meta property="og:image" content="https://images.pexels.com/photos/3742711/pexels-photo-3742711.jpeg?cs=srgb&dl=pexels-andrew-beatson-3742711.jpg&fm=jpg" />
+<meta property="article:published_time" content="2020-08-28T00:10:37+08:00" />
+<meta property="article:modified_time" content="2020-08-28T00:10:37+08:00" />
 
 
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="SSL"/>
-<meta name="twitter:description" content="🎉 QuickAnswer help people obtain useful answers more quickly. 🎉"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://images.pexels.com/photos/3742711/pexels-photo-3742711.jpeg?cs=srgb&dl=pexels-andrew-beatson-3742711.jpg&fm=jpg"/>
+
+<meta name="twitter:title" content="Hugo |&gt; Dev Server Open Browser"/>
+<meta name="twitter:description" content="a simple way to open browser"/>
 
 
   
@@ -64,8 +68,6 @@
 
   <link type="text/css" rel="stylesheet" href="/css/syntax.css">
 
-  
-  <link rel="alternate" type="application/rss+xml" href="https://quickanswer.awesomefe.dev/tags/ssl/index.xml" title="(Quick Answer)" />
   
 <script type="application/javascript">
 var doNotTrack = false;
@@ -212,25 +214,93 @@ if (!doNotTrack) {
     <div id="content" class="content-container">
       
 
-  <h1>Tagged "SSL"</h1>
-  
-  
+<h2 class="post-title">Hugo |&gt; Dev Server Open Browser</h2>
+<hr />
+<p class="post-date">
     
-    <article>
-            <h2>
-                <a href="https://quickanswer.awesomefe.dev/posts/2020-08-25-error-526-invalid-ssl-certificate/">
-                    Cloudflare |&gt; Error 526 Invalid SSL Certificate
-                </a>
-            </h2>
-            <div>
-                <p>Set SSL mode to Full</p>
-                
-            </div>
-            <div class="post-footer">
-            <time>August 25, 2020</time>
-            </div> 
-        </article>
+    Published: <time>August 28, 2020</time>
     
+</p>
+<p class="post-date">
+    
+    Lastmod: <time>August 28, 2020</time>
+    
+</p>
+
+<div>
+    <p>
+        <hr>
+<blockquote>
+<p>IF YOU JUST SOLVED SOME PROBLEM, WELCOME TO DM ME ON <a href="https://twitter.com/qaRabbitx">TWITTER</a>, OR CREATE A PULL REQUEST IN <a href="https://github.com/supeterlau/quickanswer">GITHUB REPO</a>.</p>
+</blockquote>
+<p>Why hugo dev server can&rsquo;t open browser tab automatically?</p>
+<p>Modify hugo source code will definitely solve this issue.</p>
+<p>Or we can use two simpler ways:</p>
+<ul>
+<li>
+<p>use some programe to run command <code>hugo server</code> and <code>open_browser</code> <a href="https://www.cyberciti.biz/faq/how-to-run-command-or-code-in-parallel-in-bash-shell-under-linux-or-unix/">in parallel</a></p>
+</li>
+<li>
+<p>use simple command sleep</p>
+</li>
+</ul>
+<p>Here is the second way on <strong>macOS</strong>: (open command only works on macOS)</p>
+<div class="highlight"><pre class="chroma"><code class="language-zsh" data-lang="zsh"><span class="cp">#!/bin/bash
+</span><span class="cp"></span>
+<span class="nv">LOCAL_URL</span><span class="o">=</span>http://localhost:1313
+
+run_after <span class="o">()</span> <span class="o">{</span>
+  <span class="nv">duration</span><span class="o">=</span><span class="si">${</span><span class="nv">1</span><span class="k">:-</span><span class="nv">3</span><span class="si">}</span>
+  sleep <span class="nv">$duration</span>
+  <span class="nb">echo</span> <span class="s1">&#39;After &#39;</span><span class="nv">$duration</span>
+  <span class="c1"># change open command to proper one</span>
+  open --new -a <span class="s2">&#34;Google Chrome&#34;</span> --args <span class="nv">$LOCAL_URL</span>
+<span class="o">}</span>
+
+run_after <span class="m">1</span> <span class="p">&amp;</span>
+hugo server</code></pre></div>
+<hr>
+<p><em>Reference</em>:</p>
+<ul>
+  
+  <li><a href="https://github.com/gohugoio/hugo/issues/6293">https://github.com/gohugoio/hugo/issues/6293</a></li>
+  
+  <li><a href="https://www.cyberciti.biz/faq/how-to-run-command-or-code-in-parallel-in-bash-shell-under-linux-or-unix/">https://www.cyberciti.biz/faq/how-to-run-command-or-code-in-parallel-in-bash-shell-under-linux-or-unix/</a></li>
+  
+  <li><a href="https://zwbetz.com/open-a-new-google-chrome-tab-or-window-via-command-line-on-mac">https://zwbetz.com/open-a-new-google-chrome-tab-or-window-via-command-line-on-mac</a></li>
+  
+</ul>
+<!-- <div class="highlight"><pre class="chroma"><code class="language-zsh" data-lang="zsh"></code></pre></div> -->
+    </p>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+
+
+<script src="https://utteranc.es/client.js" repo="supeterlau/quickanswer" issue-term="pathname"
+  label="✨💬✨comment" theme="github-light" crossorigin="anonymous" async>
+  </script>
+
+
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
+<script type='text/javascript'>
+    const kofiId = 'qarabbit';
+    kofiwidget2.init('Support Me on Ko-fi', '#29abe0', kofiId);
+    kofiwidget2.draw();
+</script>
+
+
+
+<div class="page-footer">
+    
+    <hr class="footer-divider">
+    
+    <a class="tag" href="/tags/macos">#macOS</a>
+    
+    <a class="tag" href="/tags/hugo">#Hugo</a>
+    
+    
+</div>
 
 
       
