@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://quickanswer.awesomefe.dev/</loc>
-    <lastmod>2020-08-28T00:10:37+08:00</lastmod>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,68 @@
                 hreflang="en"
                 href="https://quickanswer.awesomefe.dev/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/cli/</loc>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/2020-08-28-compress-and-decompress-via-cli/</loc>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/posts/</loc>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.awesomefe.dev/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.awesomefe.dev/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/</loc>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://quickanswer.awesomefe.dev/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://quickanswer.awesomefe.dev/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/tar/</loc>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://quickanswer.awesomefe.dev/tags/zip/</loc>
+    <lastmod>2020-08-28T11:03:21+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -48,40 +110,6 @@
     <lastmod>2020-08-28T00:10:37+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/posts/</loc>
-    <lastmod>2020-08-28T00:10:37+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://quickanswer.awesomefe.dev/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://quickanswer.awesomefe.dev/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/</loc>
-    <lastmod>2020-08-28T00:10:37+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://quickanswer.awesomefe.dev/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://quickanswer.awesomefe.dev/tags/"
-                />
   </url>
   
   <url>
@@ -136,13 +164,6 @@
   <url>
     <loc>https://quickanswer.awesomefe.dev/tags/ssl/</loc>
     <lastmod>2020-08-25T20:08:59+08:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://quickanswer.awesomefe.dev/tags/cli/</loc>
-    <lastmod>2020-07-22T21:56:00+08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>

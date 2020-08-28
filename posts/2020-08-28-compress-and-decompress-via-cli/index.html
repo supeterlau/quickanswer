@@ -8,7 +8,7 @@
   <meta name="format-detection" content="telephone=no" />
 
   
-  <title>CLI
+  <title>CLI |&gt; Compress and Decompress via CLI
      - 
   </title>
 
@@ -22,8 +22,7 @@
 
   
   <meta name="description" content="
-    
-    🎉 QuickAnswer help people obtain useful answers more quickly. 🎉
+    summary of compress and decompress
     ">
 
   
@@ -32,22 +31,27 @@
 
   
   
-  <meta name="keywords" content="digital marketing, content marketing, seo tips, howto" />
+  <meta name="keywords" content="CLI, Tar, Zip, 
+  digital marketing, content marketing, seo tips, howto" />
   
   
 
   
 
-  <meta property="og:title" content="CLI" />
-<meta property="og:description" content="🎉 QuickAnswer help people obtain useful answers more quickly. 🎉" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://quickanswer.awesomefe.dev/tags/cli/" />
-<meta property="og:updated_time" content="2020-08-28T11:03:21+08:00" />
+  <meta property="og:title" content="CLI |&gt; Compress and Decompress via CLI" />
+<meta property="og:description" content="summary of compress and decompress" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://quickanswer.awesomefe.dev/posts/2020-08-28-compress-and-decompress-via-cli/" />
+<meta property="og:image" content="https://images.pexels.com/photos/3831772/pexels-photo-3831772.jpeg?cs=srgb&dl=pexels-alex-conchillos-3831772.jpg&fm=jpg" />
+<meta property="article:published_time" content="2020-08-28T11:03:21+08:00" />
+<meta property="article:modified_time" content="2020-08-28T11:03:21+08:00" />
 
 
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="CLI"/>
-<meta name="twitter:description" content="🎉 QuickAnswer help people obtain useful answers more quickly. 🎉"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://images.pexels.com/photos/3831772/pexels-photo-3831772.jpeg?cs=srgb&dl=pexels-alex-conchillos-3831772.jpg&fm=jpg"/>
+
+<meta name="twitter:title" content="CLI |&gt; Compress and Decompress via CLI"/>
+<meta name="twitter:description" content="summary of compress and decompress"/>
 
 
   
@@ -64,8 +68,6 @@
 
   <link type="text/css" rel="stylesheet" href="/css/syntax.css">
 
-  
-  <link rel="alternate" type="application/rss+xml" href="https://quickanswer.awesomefe.dev/tags/cli/index.xml" title="(Quick Answer)" />
   
 <script type="application/javascript">
 var doNotTrack = false;
@@ -212,59 +214,136 @@ if (!doNotTrack) {
     <div id="content" class="content-container">
       
 
-  <h1>Tagged "CLI"</h1>
+<h2 class="post-title">CLI |&gt; Compress and Decompress via CLI</h2>
+<hr />
+<p class="post-date">
+    
+    Published: <time>August 28, 2020</time>
+    
+</p>
+<p class="post-date">
+    
+    Lastmod: <time>August 28, 2020</time>
+    
+</p>
+
+<div>
+    <p>
+        <hr>
+<blockquote>
+<p>IF YOU JUST SOLVED SOME PROBLEM, WELCOME TO DM <strong>qaRabbit</strong> ON <a href="https://twitter.com/qaRabbitx">TWITTER</a>, OR CREATE A PULL REQUEST IN <a href="https://github.com/supeterlau/quickanswer">GITHUB REPO</a>.</p>
+</blockquote>
+<h2 id="macos">macOS</h2>
+<ul>
+<li>
+<p>file.zip</p>
+<p>extract to the current directory</p>
+<p><code>unzip file.zip</code></p>
+<p>extract to the target directory</p>
+<p><code>unzip file.zip -d target_dir_path</code></p>
+<p>compress to file.zip</p>
+<p><code>zip file path1 path2 path3</code></p>
+</li>
+<li>
+<p>file.tar (archive, no compress)</p>
+<p>extract to the current directory</p>
+<p><code>tar -xvf file.tar</code></p>
+<p>extract to target_dir_path (must be created first)</p>
+<p><code>mkdir -p target_dir_path &amp;&amp; tar -C target_dir_path -xvf file.tar</code></p>
+<p>compress path</p>
+<p><code>tar -cvf file.tar path1 path2</code></p>
+</li>
+<li>
+<p>file.tar.gz file.tgz</p>
+<p><em><strong>tar.gz</strong> file is a <strong>Tar archive</strong> compressed with <strong>Gzip</strong></em></p>
+<p>extract to the current directory</p>
+<p><code>tar -zxvf file.tar.gz</code></p>
+<p>extract to target_dir_path (must be created first)</p>
+<p><code>mkdir -p target_dir_path &amp;&amp; tar -C target_dir_path -zxvf file.tar.gz</code></p>
+<p>compress path</p>
+<p><code>tar -czvf file.tar.gz path1 path2 ...</code></p>
+<p>compress with exclude</p>
+<p><code>tar -czvf file.tar.gz path --exclude=sub_path1 --exclude=sub_path2</code></p>
+<p><code>tar -czvf file.tar.gz path --exclude={sub_path1, sub_path2}</code></p>
+<p><code>tar -czvf file.tar.gz path --exclude=*.ext</code></p>
+</li>
+<li>
+<p>file.tar.xz</p>
+<p><em><strong>tar.gz</strong> file is a <strong>Tar archive</strong> compressed with <strong>Xz</strong> a LZMA based compress algorithm</em></p>
+<p>tar auto-detects compression type and extracts the archive</p>
+<p><code>tar -xf file.tar.xz</code></p>
+</li>
+<li>
+<p>file.tar.bz2 file.tbz</p>
+<p><em><strong>tar.bz2</strong> file is a <strong>Tar archive</strong> compressed with <strong>Bzip2</strong></em></p>
+<p>extract to the current directory</p>
+<p><code>tar -xvf file.tar.bz2</code></p>
+<p>extract to target_dir_path (&ndash;directory, -C; must be created first)</p>
+<p><code>mkdir -p target_dir_path &amp;&amp; tar -xvf file.tar.bz2 -C target_dir_path</code></p>
+<p>extract specific files</p>
+<p><code>tar -xf archive.tar.bz2 file1 file2 dir1 dir2</code></p>
+<p><code>tar -xf archive.tar.bz2 --wildcards '*.md'</code></p>
+<p>extract from stdin</p>
+<p><code>wget -c ftp://ftp.vim.org/pub/vim/unix/vim-8.1.tar.bz2 -O - | sudo tar -xj</code></p>
+<p>list archive content (&ndash;list, -t)</p>
+<p><code>tar -tvf file.tar.bz2</code></p>
+<p>compress path</p>
+<p><code>tar -cjvf file.tar.bz2 path1 path2</code></p>
+</li>
+</ul>
+<h2 id="gnulinux">GNU/Linux</h2>
+<hr>
+<p><em>References</em>:</p>
+<ul>
   
+  <li><a href="https://www.cyberciti.biz/faq/linux-howto-unzip-files-in-root-directory/">https://www.cyberciti.biz/faq/linux-howto-unzip-files-in-root-directory/</a></li>
   
-    
-    <article>
-            <h2>
-                <a href="https://quickanswer.awesomefe.dev/posts/2020-08-28-compress-and-decompress-via-cli/">
-                    CLI |&gt; Compress and Decompress via CLI
-                </a>
-            </h2>
-            <div>
-                <p>summary of compress and decompress</p>
-                
-            </div>
-            <div class="post-footer">
-            <time>August 28, 2020</time>
-            </div> 
-        </article>
-    
+  <li><a href="https://www.hostingmanual.net/zipping-unzipping-files-unix/">https://www.hostingmanual.net/zipping-unzipping-files-unix/</a></li>
   
-    
-    <article>
-            <h2>
-                <a href="https://quickanswer.awesomefe.dev/posts/2020-07-22-exclude-directories-in-grep/">
-                    CLI |&gt; Exclude Directories in grep
-                </a>
-            </h2>
-            <div>
-                <p>exclude directories in grep</p>
-                
-            </div>
-            <div class="post-footer">
-            <time>July 22, 2020</time>
-            </div> 
-        </article>
-    
+  <li><a href="https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/">https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/</a></li>
   
+  <li><a href="https://linuxize.com/post/how-to-extract-unzip-tar-bz2-file">https://linuxize.com/post/how-to-extract-unzip-tar-bz2-file</a></li>
+  
+  <li><a href="https://www.pendrivelinux.com/how-to-open-a-tar-file-in-unix-or-linux/">https://www.pendrivelinux.com/how-to-open-a-tar-file-in-unix-or-linux/</a></li>
+  
+  <li><a href="https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/">https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/</a></li>
+  
+  <li><a href="https://unix.stackexchange.com/questions/25311/create-target-directory-when-extracting-tarball">https://unix.stackexchange.com/questions/25311/create-target-directory-when-extracting-tarball</a></li>
+  
+</ul>
+<!-- <div class="highlight"><pre class="chroma"><code class="language-zsh" data-lang="zsh"></code></pre></div> -->
+    </p>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+
+
+<script src="https://utteranc.es/client.js" repo="supeterlau/quickanswer" issue-term="pathname"
+  label="✨💬✨comment" theme="github-light" crossorigin="anonymous" async>
+  </script>
+
+
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
+<script type='text/javascript'>
+    const kofiId = 'qarabbit';
+    kofiwidget2.init('Support Me on Ko-fi', '#29abe0', kofiId);
+    kofiwidget2.draw();
+</script>
+
+
+
+<div class="page-footer">
     
-    <article>
-            <h2>
-                <a href="https://quickanswer.awesomefe.dev/posts/2020-07-22-converting-svg-to-png-on-macos-via-cli/">
-                    macOS |&gt; Convert SVG to PNG on macOS via Cli
-                </a>
-            </h2>
-            <div>
-                <p>a simple way to convert svg to png</p>
-                
-            </div>
-            <div class="post-footer">
-            <time>July 22, 2020</time>
-            </div> 
-        </article>
+    <hr class="footer-divider">
     
+    <a class="tag" href="/tags/cli">#CLI</a>
+    
+    <a class="tag" href="/tags/tar">#Tar</a>
+    
+    <a class="tag" href="/tags/zip">#Zip</a>
+    
+    
+</div>
 
 
       
